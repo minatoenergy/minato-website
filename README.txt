@@ -18,4 +18,4 @@ Nginx:
 
 The site is static HTML/CSS/JS and does not require a database or application server.
 
-Content was based on the Minato Energy Systems pitch deck supplied for this project, plus the contact details supplied in the conversation.
+Content was based on the Minato Energy Systems pitch deck supplied for this project
